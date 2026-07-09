@@ -54,8 +54,6 @@ video streams.
 
 ## 📊 GitHub Stats
 
-![Vardaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vardaan-7&show_icons=true&theme=radical&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vardaan-7&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=vardaan-7&theme=radical)
 
 ---
@@ -64,9 +62,8 @@ video streams.
 
 - 🎵 Shipping v1 of the Artist Collaboration Engine
 - 🧩 Sharpening backend fundamentals (system design, DB scaling, auth)
-- 💼 Prepping for backend/AI-ML internship interviews
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vardaan-shukla-b63b54264/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vardaan.shukla7@gmail.com)
