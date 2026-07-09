@@ -1,4 +1,4 @@
-# Hi, I'm Vardaan 👋
+# Hi, I'm Vardaan
 
 🎓 **B.Tech CSE (AI/ML)** @ VIT Bhopal University
 🛠️ **Developer** who builds systems, not just scripts
