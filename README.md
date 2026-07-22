@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Vardaan&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Backend%20Systems%20Engineer%20%7C%20Distributed%20Architectures%20%7C%20Production%20Pipelines&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Vardaan&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Backend%20%26%20AI%20Engineer%20%7C%20Distributed%20Systems%20%7C%20FinTech%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -22,28 +22,35 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=vardaan-7&color=2C5364&style=for-the-badge&label=PROFILE+VIEWS)
 ![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-brightgreen?style=for-the-badge)
 
+<br/>
+
+![Backend](https://img.shields.io/badge/Backend%20Engineering-2C5364?style=flat-square)
+![AI](https://img.shields.io/badge/AI%20Engineering-7B2CBF?style=flat-square)
+![FinTech](https://img.shields.io/badge/FinTech-0E7C61?style=flat-square)
+
 </div>
 
 <br/>
 
 ## `01` About Me
 
-I build systems that survive contact with production — not notebooks that die in a Jupyter cell. My work sits at the intersection of **AI/ML and backend engineering**: I take models and data pipelines and wrap them in the infrastructure that actually ships — REST APIs, caching layers, auth, containerized services, and persistent storage.
+I build systems that survive contact with production — not notebooks that die in a Jupyter cell. My work sits at the intersection of **backend engineering and AI/ML**: I care equally about designing the model/pipeline *and* the infrastructure that actually ships it — REST APIs, caching layers, auth, containerized services, and persistent storage. I'm not choosing a lane between "backend" and "AI engineer" — I want to be the person who can do both, end to end.
 
 ```txt
-class Vardaan(BackendEngineer):
+class Vardaan(BackendEngineer, AIEngineer):
     def __init__(self):
         self.degree      = "B.Tech CSE (AI/ML), VIT Bhopal University"
-        self.focus       = ["API Design", "Distributed Systems", "DB Scaling", "DevOps"]
-        self.philosophy  = "If it can't be deployed, it isn't finished."
-        self.status      = "Actively seeking Backend Engineering internships/roles"
+        self.focus       = ["API Design", "Distributed Systems", "ML/AI Systems", "DB Scaling"]
+        self.interests    = ["FinTech", "Recommendation Systems", "Vector Search"]
+        self.philosophy   = "If it can't be deployed, it isn't finished."
+        self.status       = "Actively seeking Backend / AI Engineering internships & roles"
 
     def currently_building(self):
         return "Artist Collaboration Engine — a location-aware discovery " \
-               "platform for independent musicians"
+               "platform for independent musicians, powered by vector search"
 ```
 
-Most of my projects are deliberately built as **simulations of real-world production domains** — marketplaces, delivery logistics, fintech dashboards, and computer-vision pipelines — because the goal isn't "does it run," it's "could this survive a code review from a senior backend engineer."
+Most of my projects are deliberately built as **simulations of real-world production domains** — marketplaces, delivery logistics, fintech dashboards, and computer-vision pipelines — because the goal isn't "does it run," it's "could this survive a code review from a senior engineer." I'm especially drawn to **fintech** — the combination of strict correctness requirements, real-time data, and systems that have to be both fast *and* trustworthy is exactly the kind of hard problem I want to work on.
 
 <br/>
 
@@ -148,10 +155,10 @@ Backend-focused food delivery system modeling restaurants, users, delivery agent
 </td>
 <td width="50%" valign="top">
 
-### 📈 MarketLens
+### 📈 MarketLens <sub><i>(fintech)</i></sub>
 Full-stack fintech application for stock analysis — technical indicators, backtesting, and risk-aware trend prediction across a MERN + Python pipeline.
 
-**Focus:** data pipelines, backtesting engines, full-stack integration
+**Focus:** data pipelines, backtesting engines, full-stack integration — built out of genuine interest in financial systems, not just as a portfolio checkbox
 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
@@ -274,10 +281,18 @@ Redis read-through / write-through caching layers · hot-path latency reduction 
 </td>
 </tr>
 <tr>
-<td valign="top"><b>🤖 AI/ML Foundations</b></td>
+<td valign="top"><b>🤖 AI/ML Systems</b></td>
 <td>
 
-Machine learning & deep learning fundamentals · vector search & semantic similarity · recommendation system design bridging ML output to production APIs
+Machine learning & deep learning fundamentals · vector search & semantic similarity (Qdrant/HNSW) · recommendation system design · bridging model output to production APIs — the "last mile" most ML projects skip
+
+</td>
+</tr>
+<tr>
+<td valign="top"><b>💹 FinTech Systems Thinking</b></td>
+<td>
+
+Backtesting engine design · technical indicator pipelines · risk-aware prediction — drawn to fintech's combination of correctness, real-time data, and scale
 
 </td>
 </tr>
@@ -312,9 +327,9 @@ Machine learning & deep learning fundamentals · vector search & semantic simila
 
 ## `06` Let's Build Something
 
-I'm currently shipping **v1 of the Artist Collaboration Engine** and sharpening backend fundamentals around system design, DB scaling, and auth — and always up for collaborating on **distributed systems, API scalability, or anything backend-heavy.**
+I'm currently shipping **v1 of the Artist Collaboration Engine** and sharpening fundamentals across both system design/DB scaling and applied ML — and always up for collaborating on **distributed systems, AI-powered products, or fintech infrastructure.**
 
-Actively looking for **backend engineering internships / entry-level roles**. If your team is solving hard infrastructure problems, my inbox is open.
+Actively looking for **backend engineering and AI engineering internships / entry-level roles** — fintech companies especially welcome. If your team is solving hard infrastructure or ML-systems problems, my inbox is open.
 
 <div align="center">
 
