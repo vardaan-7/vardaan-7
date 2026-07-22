@@ -43,7 +43,7 @@ class Vardaan(BackendEngineer, AIEngineer):
         self.focus       = ["API Design", "Distributed Systems", "ML/AI Systems", "DB Scaling"]
         self.interests    = ["FinTech", "Recommendation Systems", "Vector Search"]
         self.philosophy   = "If it can't be deployed, it isn't finished."
-        self.status       = "Actively seeking Backend / AI Engineering internships & roles"
+        self.status       = "Actively seeking Backend / AI Engineering internships and roles"
 
     def currently_building(self):
         return "Artist Collaboration Engine — a location-aware discovery " \
@@ -252,7 +252,7 @@ Actively hardening repo hygiene (READMEs, `.env.example`, CI/CD) across projects
 <td valign="top"><b>🗄️ Database Scaling</b></td>
 <td>
 
-PostgreSQL schema design & indexing strategy · vector embedding indexes (Qdrant HNSW) for approximate nearest-neighbor search at scale · query optimization over naive ORM defaults
+PostgreSQL schema design and indexing strategy · vector embedding indexes (Qdrant HNSW) for approximate nearest-neighbor search at scale · query optimization over naive ORM defaults
 
 </td>
 </tr>
@@ -268,7 +268,7 @@ FastAPI async request pipelining · non-blocking I/O for high-concurrency endpoi
 <td valign="top"><b>🐳 Container Orchestration</b></td>
 <td>
 
-Docker & multi-service Docker Compose networks · service isolation and inter-container communication · reproducible local dev environments
+Docker and multi-service Docker Compose networks · service isolation and inter-container communication · reproducible local dev environments
 
 </td>
 </tr>
@@ -284,7 +284,7 @@ Redis read-through / write-through caching layers · hot-path latency reduction 
 <td valign="top"><b>🤖 AI/ML Systems</b></td>
 <td>
 
-Machine learning & deep learning fundamentals · vector search & semantic similarity (Qdrant/HNSW) · recommendation system design · bridging model output to production APIs — the "last mile" most ML projects skip
+Machine learning and deep learning fundamentals · vector search and semantic similarity (Qdrant/HNSW) · recommendation system design · bridging model output to production APIs — the "last mile" most ML projects skip
 
 </td>
 </tr>
