@@ -197,10 +197,10 @@ Actively hardening repo hygiene (READMEs, `.env.example`, CI/CD) across projects
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<img src="https://leetcode-stats-six.vercel.app/?username=Vardaan28&theme=dark" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=vardaan-7&theme=radical&hide_border=true" width="100%"/>
 </td>
 <td width="50%" valign="top">
-<img src="https://streak-stats.demolab.com?user=vardaan-7&theme=radical&hide_border=true" width="100%"/>
+<img src="https://leetcard.jacoblin.cool/Vardaan28?theme=dark&font=Baloo%202&ext=contest" width="100%"/>
 </td>
 </tr>
 <tr>
@@ -213,10 +213,16 @@ Actively hardening repo hygiene (READMEs, `.env.example`, CI/CD) across projects
 </tr>
 </table>
 
+**LeetCode contribution heatmap**
+
 <div align="center">
+<img src="https://leetcard.jacoblin.cool/Vardaan28?theme=dark&font=Baloo%202&ext=heatmap" width="100%"/>
+</div>
 
+**GitHub contribution graph**
+
+<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vardaan-7&theme=react-dark&hide_border=true" width="100%"/>
-
 </div>
 
 <details>
@@ -227,7 +233,7 @@ Actively hardening repo hygiene (READMEs, `.env.example`, CI/CD) across projects
 </div>
 </details>
 
-> ⚠️ **Note:** the LeetCode widget above points to the handle `Vardaan28` based on your profile link — double-check it matches your actual LeetCode username, since a stray placeholder here is the #1 reason these cards silently break.
+> ⚠️ **Why cards break:** these are all free, shared, no-auth widget services (Vercel-hosted). They occasionally rate-limit or go down — it's not your README, it's their server load. See the fix notes below the table if a card is still blank after a hard refresh.
 
 <br/>
 
