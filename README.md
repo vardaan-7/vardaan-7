@@ -51,6 +51,22 @@ video streams.
 **AI/ML:** Machine Learning · Deep Learning · Vector Search · Recommendation Systems
 
 ---
+## 📊 Coding Profiles & Stats
+
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://leetcode.com/u/Vardaan28/">
+        <img src="https://leetcode-stats-six.vercel.app/?username=YOUR_LEETCODE_USERNAME&theme=dark" alt="LeetCode Stats" width="400" />
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://github.com/vardaan-7">
+        <img src="https://streak-stats.demolab.com?user=vardaan-7&theme=radical&hide_border=true" alt="GitHub Streak" width="400" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats
 
